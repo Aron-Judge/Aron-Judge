@@ -1,12 +1,8 @@
 <div align="center">
 
-# Aron Judge
-
 ### Computer Science Graduate | Android Developer | Python Developer
 
 </div>
-
-
 
 # Hi, I'm Aron
 
