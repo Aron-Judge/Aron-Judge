@@ -1,3 +1,4 @@
+Computer Science Graduate | Android Developer | Python Developer
 # Hi, I'm Aron
 
 Computer Science graduate (2:1) with interests in software development, Android applications, game modding, and problem solving.
