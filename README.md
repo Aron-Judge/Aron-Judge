@@ -16,16 +16,44 @@ Computer Science graduate (2:1) with interests in software development, Android 
 
 ### Android Media Player
 
-A Kotlin-based Android application for managing and playing local music collections.
+Kotlin-based Android application for managing and playing local music collections.
 
-Features:
+Tech:
+- Kotlin
+- Jetpack Compose
+- Android Studio
 
-- Playlist management
-- Media playback controls
-- State persistence
-- Modern Jetpack Compose UI
+Repository:
+https://github.com/Aron-Judge/AndroidMediaPlayer
 
-Repository: https://github.com/Aron-Judge/AndroidMediaPlayer
+---
+
+### Spotify Auto Downloader
+
+Python application that automates downloading tracks from Spotify playlists by matching songs to available YouTube sources.
+
+Tech:
+- Python
+- SpotDL
+- yt-dlp
+- Tkinter
+
+Repository:
+https://github.com/Aron-Judge/SpotifyAutoDownloader
+
+---
+
+### Builder NPC
+
+Minecraft plugin developed in Java.
+
+Tech:
+- Java
+- Minecraft Plugin Development
+
+Repository:
+https://github.com/Aron-Judge/Builder-NPC
+
 
 ---
 
