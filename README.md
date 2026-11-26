@@ -54,7 +54,7 @@ Features:
 - Plugin development and maintenance
 - Java
 - Minecraft Plugin Development
-- 
+  
 Repository: https://github.com/Aron-Judge/Builder-NPC
 
 ---
