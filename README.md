@@ -45,24 +45,25 @@ https://github.com/Aron-Judge/SpotifyAutoDownloader
 
 ### Builder NPC
 
-Minecraft plugin developed in Java for university final year major project.
+Minecraft plugin developed in Java for my university final-year project.
 
-Features:
-
-- Automated building functionality
-- Custom NPC behaviour
-- Plugin development and maintenance
+Tech:
 - Java
 - Minecraft Plugin Development
-  
-Repository: https://github.com/Aron-Judge/Builder-NPC
+- Custom NPC Behaviour
+- Automated Building Functionality
 
+Repository:
+https://github.com/Aron-Judge/Builder-NPC
 ---
 
 
 ## Education
 
-BSc Computer Science (2:1) Aberystwyth University
+BSc Computer Science (2:1)
+Aberystwyth University
+
+Final Year Project: 81%
 
 ## Contact
 
